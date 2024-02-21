@@ -1,0 +1,12 @@
+clear();
+        rootPane.getChildren().add(Goto.backToMainPageButton());
+        rootPane.getChildren().add(GetDisplay.name(book,28,336,TextAlignment.CENTER));
+
+
+        Text text=GetDisplay.author(book,24,336,TextAlignment.CENTER);
+        text.setText("By "+text.getText());
+        rootPane.getChildren().add(text);
+        /*บางพลัดอาจจะเป็นแค่ชื่อเขต แต่เธอคือสาเหตุของความรัก*/
+        rootPane.getChildren().add(GetDisplay.image(book,320));
+        rootPane.getChildren().add(GetDisplay.stars(book,24));
+        rootPane.getChildren().add(GetDisplay.Description(book,16,336));
