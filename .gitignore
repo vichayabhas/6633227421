@@ -5,3 +5,5 @@
 
 *.zip
 *.sql
+node_modules/*
+config/config.env
