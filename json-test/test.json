@@ -1,0 +1,479 @@
+{
+    "success": true,
+    "count": 25,
+    "pagination": {
+        "next": {
+            "page": 2,
+            "limit": 25
+        }
+    },
+    "data": [
+        {
+            "_id": "65e4869e8814335f53c39419",
+            "name": "Cayla's Massage Parlor",
+            "address": "1005 Altenwerth Trace",
+            "tel": "427-971-6830",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4869e8814335f53c39419"
+        },
+        {
+            "_id": "65e470448814335f53c393fe",
+            "name": "Christine's Massage Parlor",
+            "address": "806 Denesik Extension",
+            "tel": "624-465-2299",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e470448814335f53c393fe"
+        },
+        {
+            "_id": "65e486808814335f53c39413",
+            "name": "Cierra's Massage Parlor",
+            "address": "197 Hickle Trail",
+            "tel": "313-991-4776",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e486808814335f53c39413"
+        },
+        {
+            "_id": "65e4895e96aca88a4747e51f",
+            "name": "Claudie's Massage Parlor",
+            "address": "15308 Naomie Pines",
+            "tel": "773-693-3348",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4895e96aca88a4747e51f"
+        },
+        {
+            "_id": "65e46fc98814335f53c393ec",
+            "name": "Deion's Massage Parlor",
+            "address": "8788 Michelle Tunnel",
+            "tel": "809-888-0755",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e46fc98814335f53c393ec"
+        },
+        {
+            "_id": "65e470258814335f53c393fb",
+            "name": "Dillan's Massage Parlor",
+            "address": "64062 Hand Cape",
+            "tel": "247-586-7326",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e470258814335f53c393fb"
+        },
+        {
+            "_id": "65e371da3540da12cfb58a9e",
+            "name": "Eleanora's Massage Parlor",
+            "address": "30692 Herzog Gardens",
+            "tel": "314-230-3867",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [
+                {
+                    "_id": "65e44bb4924c61bf793d1c89",
+                    "resDate": "2024-04-03T07:55:40.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:06:44.785Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4504e8ec59354006e79c6",
+                    "resDate": "2024-04-03T23:11:03.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:26:22.999Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e450508ec59354006e79cb",
+                    "resDate": "2024-04-04T16:55:28.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:26:24.118Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e45073d96293e192ce827a",
+                    "resDate": "2025-01-09T04:51:25.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:26:59.745Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e450c407b87cef94c519f7",
+                    "resDate": "2024-03-19T14:04:08.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:28:20.554Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e451061f6ac10ec557d91c",
+                    "resDate": "2024-09-05T15:27:42.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:29:26.771Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e45128519a5a125a6173f9",
+                    "resDate": "2024-03-15T22:55:03.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:30:00.082Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4513b159e79657d8c1ca3",
+                    "resDate": "2025-01-02T17:16:48.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:30:19.700Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e452191f6c4d0d981d0fbb",
+                    "resDate": "2024-09-01T17:57:00.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:34:01.735Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e45234fc8cdb15034353e8",
+                    "resDate": "2024-10-13T20:06:29.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:34:28.044Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e45258f27fd82430b1970f",
+                    "resDate": "2024-06-10T23:50:39.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:35:04.567Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e452b11c31ccd4bcf5e3ba",
+                    "resDate": "2024-05-05T21:30:55.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:36:33.533Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4570d7a2ee39cef424cb5",
+                    "resDate": "2024-04-06T19:01:27.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:55:09.305Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e457cb65e99168fb44c1a1",
+                    "resDate": "2024-05-22T20:51:25.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:58:19.189Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e45805e9a551566270fda6",
+                    "resDate": "2024-09-26T03:44:31.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:59:17.162Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4580be9a551566270fdab",
+                    "resDate": "2024-04-03T19:40:48.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T10:59:23.008Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4c329725026df21cea193",
+                    "resDate": "2024-04-24T05:00:00.000Z",
+                    "user": "65e4c320725026df21cea18a",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T18:36:25.201Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4c366725026df21cea198",
+                    "resDate": "2024-04-24T05:00:00.000Z",
+                    "user": "65e4c320725026df21cea18a",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T18:37:26.431Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4c39e725026df21cea19d",
+                    "resDate": "2024-04-24T05:00:00.000Z",
+                    "user": "65e4c320725026df21cea18a",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T18:38:22.112Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4c7e17efb90211eb06ccd",
+                    "resDate": "2024-04-24T05:00:00.000Z",
+                    "user": "65e4c7df7efb90211eb06cc4",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T18:56:33.443Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4d8b4e782b4d1c12c5b65",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e4d863e782b4d1c12c5b56",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T20:08:20.092Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4d920e782b4d1c12c5b70",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e4d91de782b4d1c12c5b67",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T20:10:08.986Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4d97be782b4d1c12c5b85",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e4d863e782b4d1c12c5b56",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T20:11:39.321Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e4db05128cc7bd0c8f1f48",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e4d863e782b4d1c12c5b56",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-03T20:18:13.303Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e5e742175ec0688b32633d",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e5e73b175ec0688b326337",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-04T15:22:42.027Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e6c1f4175ec0688b326482",
+                    "resDate": "2024-04-24T12:00:00.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-05T06:55:48.221Z",
+                    "__v": 0
+                },
+                {
+                    "_id": "65e6c25c175ec0688b32648d",
+                    "resDate": "2024-04-24T13:00:00.000Z",
+                    "user": "65e35f65b36cc79d65c94752",
+                    "shop": "65e371da3540da12cfb58a9e",
+                    "createdAt": "2024-03-05T06:57:32.670Z",
+                    "__v": 0
+                }
+            ],
+            "id": "65e371da3540da12cfb58a9e"
+        },
+        {
+            "_id": "65e488620dfe43fcec464507",
+            "name": "Eleonore's Massage Parlor",
+            "address": "331 Trantow Gateway",
+            "tel": "286-701-7979",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e488620dfe43fcec464507"
+        },
+        {
+            "_id": "65e364e49400f3f4edb1bec4",
+            "name": "Gabriel Massage Parlor",
+            "address": "55511 Efren Ramp",
+            "tel": "814-406-5141",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e364e49400f3f4edb1bec4"
+        },
+        {
+            "_id": "65e4866c8814335f53c3940d",
+            "name": "Herminia's Massage Parlor",
+            "address": "9705 Jo Ramp",
+            "tel": "530-463-4096",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4866c8814335f53c3940d"
+        },
+        {
+            "_id": "65e36f30c9589d6dd110b943",
+            "name": "Hettie's Massage Parlor",
+            "address": "5985 Jade Rapids",
+            "tel": "591-919-3832",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e36f30c9589d6dd110b943"
+        },
+        {
+            "_id": "65e488620dfe43fcec464504",
+            "name": "Hilda's Massage Parlor",
+            "address": "65715 Pacocha Motorway",
+            "tel": "607-761-2319",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e488620dfe43fcec464504"
+        },
+        {
+            "_id": "65e364549400f3f4edb1bebe",
+            "name": "Jacob's Massage Parlor",
+            "address": "55th Anywhere Street",
+            "tel": "948-435-7960",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e364549400f3f4edb1bebe"
+        },
+        {
+            "_id": "65e488610dfe43fcec464501",
+            "name": "Janelle's Massage Parlor",
+            "address": "0374 Quigley Throughway",
+            "tel": "993-222-5910",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e488610dfe43fcec464501"
+        },
+        {
+            "_id": "65e487fd0dfe43fcec4644eb",
+            "name": "Jocelyn's Massage Parlor",
+            "address": "36137 Bianka Throughway",
+            "tel": "935-632-7807",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e487fd0dfe43fcec4644eb"
+        },
+        {
+            "_id": "65e4c91d0e8396fc9e7efeb6",
+            "name": "Jolie's Massage Parlor",
+            "address": "705 Johnston Manors",
+            "tel": "713-368-0457",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4c91d0e8396fc9e7efeb6"
+        },
+        {
+            "_id": "65e4c91b0e8396fc9e7efeb3",
+            "name": "Juliana's Massage Parlor",
+            "address": "768 Cloyd Streets",
+            "tel": "938-955-1491",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4c91b0e8396fc9e7efeb3"
+        },
+        {
+            "_id": "65e46f1f8814335f53c393e3",
+            "name": "Katlynn's Massage Parlor",
+            "address": "800 Stamm River",
+            "tel": "856-954-9267",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e46f1f8814335f53c393e3"
+        },
+        {
+            "_id": "65e4898596aca88a4747e525",
+            "name": "Korey's Massage Parlor",
+            "address": "474 Schmeler Creek",
+            "tel": "847-475-3250",
+            "openclose": "closed for maintenance",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4898596aca88a4747e525"
+        },
+        {
+            "_id": "65e4c91e0e8396fc9e7efeb9",
+            "name": "Laurie's Massage Parlor",
+            "address": "346 Buster Dam",
+            "tel": "216-201-1742",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4c91e0e8396fc9e7efeb9"
+        },
+        {
+            "_id": "65e36dfb7d8d3425982f041b",
+            "name": "Leta's Massage Parlor",
+            "address": "789 Zoila Avenue",
+            "tel": "449-528-0826",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e36dfb7d8d3425982f041b"
+        },
+        {
+            "_id": "65e4c91f0e8396fc9e7efebc",
+            "name": "Lexie's Massage Parlor",
+            "address": "208 Trevion Locks",
+            "tel": "519-371-9391",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4c91f0e8396fc9e7efebc"
+        },
+        {
+            "_id": "65e4701b8814335f53c393f8",
+            "name": "Lucius's Massage Parlor",
+            "address": "5970 Graciela Manors",
+            "tel": "447-983-8215",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e4701b8814335f53c393f8"
+        },
+        {
+            "_id": "65e47b9f8814335f53c39404",
+            "name": "Maggie's Massage Parlor",
+            "address": "66006 Lowe Parkways",
+            "tel": "569-594-3264",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e47b9f8814335f53c39404"
+        },
+        {
+            "_id": "65e36c5a7d8d3425982f0418",
+            "name": "Max's Massage Parlor",
+            "address": "4527 Volkman Mews",
+            "tel": "542-809-1263",
+            "openclose": "10:00 - 15:00",
+            "__v": 0,
+            "reservations": [],
+            "id": "65e36c5a7d8d3425982f0418"
+        }
+    ]
+}

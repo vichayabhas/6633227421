@@ -1,0 +1,20 @@
+{
+  "expressShortCut": {
+    "prefix": ["req"],
+    "body": [
+      "(req: express.Request, res: express.Response)",
+    ],
+    "description": ""
+  },
+  "returnError": {
+    "prefix": ["returnError"],
+    "body": ["{\nsendRes(res,false)\nreturn\n}"],
+    "description": ""
+  },
+  "reqTem": {
+    "prefix": ["reqTem"],
+    "body": [
+      "export default async function name(\ninput: CreateActionPlan,\ntoken: string\n) {\nconst response = await fetch(`${getBackendUrl()}/camp/name/`, {\nmethod: \"POST\",\ncache: \"no-store\",\nheaders: {\n\"Content-Type\": \"application/json\",\nauthorization: `Bearer ${token}`,\n},\nbody: JSON.stringify(input),\n});\nreturn await response.json()\n}"
+    ]
+  }
+}

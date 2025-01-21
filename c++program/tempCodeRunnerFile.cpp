@@ -1,0 +1,1 @@
+if (*i==com) return true;
